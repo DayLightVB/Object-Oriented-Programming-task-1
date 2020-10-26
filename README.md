@@ -1,2 +1,2 @@
-# ZadaniaOOP
-Zadania z Programowania Obiektowego 26/10/2020
+# TasksOOP
+Object-Oriented Programming Tasks 26/10/2020
